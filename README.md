@@ -17,7 +17,7 @@ This repository contains a dynamic sales dashboard created using Power BI. The d
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/sales-dashboard-powerbi.git
+   [https://github.com/ramnaresh-ahi/Sales-Dashboard-using-Power-BI.git]
    ```
 2. **Open the Power BI file:** Download and open the `.pbix` file in Power BI Desktop.
 3. **Connect to your data source:** Update the data source settings to connect to your sales data.
